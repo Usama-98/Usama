@@ -7,7 +7,7 @@ public class Admin {
 	private String bttnAddNewStudent;
     private String studentClass;
 	 private Admin(){}
-	
+	// This is an Admin Class
 	 public static Admin getInstance(){
 	 return instance;
 	 }
